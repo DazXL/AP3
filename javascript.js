@@ -90,19 +90,19 @@ const questions = [
 ];
 
 const ryanspics = [ 
-    `<img id= "ibagem"src= "/ryan-gosling01.jpg"></img>`,
-    `<img id= "ibagem"src= "/ryan-gosling02.jpg"></img>`,
-    `<img id= "ibagem"src= "/ryan-gosling03.jpg"></img>`,
-    `<img id= "ibagem"src= "/ryan-gosling04.jpg"></img>`,
-    `<img id= "ibagem"src= "/ryan-gosling05.jpg"></img>`,
-    `<img id= "ibagem"src= "/ryan-gosling06.jpg"></img>`,
-    `<img id= "ibagem"src= "/ryan-gosling07.jpg"></img>`,
-    `<img id= "ibagem"src= "/ryan-gosling08.jpg"></img>`,
-    `<img id= "ibagem"src= "/ryan-gosling09.jpg"></img>`,
-    `<img id= "ibagem"src= "/ryan-gosling10.jpg"></img>`,
-    `<img id= "ibagem"src= "/ryan-gosling11.jpg"></img>`,
-    `<img id= "ibagem"src= "/ryan-gosling12.jpg"></img>`,
-    `<img id= "ibagem"src= "/ryan-gosling13.jpg"></img>`
+    `<img id= "ibagem"src= "ryan-gosling01.jpg"></img>`,
+    `<img id= "ibagem"src= "ryan-gosling02.jpg"></img>`,
+    `<img id= "ibagem"src= "ryan-gosling03.jpg"></img>`,
+    `<img id= "ibagem"src= "ryan-gosling04.jpg"></img>`,
+    `<img id= "ibagem"src= "ryan-gosling05.jpg"></img>`,
+    `<img id= "ibagem"src= "ryan-gosling06.jpg"></img>`,
+    `<img id= "ibagem"src= "ryan-gosling07.jpg"></img>`,
+    `<img id= "ibagem"src= "ryan-gosling08.jpg"></img>`,
+    `<img id= "ibagem"src= "ryan-gosling09.jpg"></img>`,
+    `<img id= "ibagem"src= "ryan-gosling10.jpg"></img>`,
+    `<img id= "ibagem"src= "ryan-gosling11.jpg"></img>`,
+    `<img id= "ibagem"src= "ryan-gosling12.jpg"></img>`,
+    `<img id= "ibagem"src= "ryan-gosling13.jpg"></img>`
 
 ]
 
